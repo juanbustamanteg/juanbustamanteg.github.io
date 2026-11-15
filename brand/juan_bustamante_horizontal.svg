@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1480 286" role="img" aria-label="Juan Bustamante, Senior Product Manager">
+<title>Juan Bustamante · Senior Product Manager</title>
+<g transform="translate(-26 -5) scale(1.21)"><path d="M63 145 H101 V150
+ C101 165 112 176 128 176
+ C144 176 153 165 153 148
+ V50 H237
+ C264 50 283 66 283 93
+ C283 106 277 117 265 123
+ C281 130 291 143 291 159
+ C291 186 269 206 243 206
+ H177
+ C187 197 194 187 198 175
+ H237 C247 175 253 169 253 159
+ C253 148 247 141 237 141
+ H202 V112 H233
+ C242 112 247 106 247 97
+ C247 87 241 81 231 81
+ H189 V149
+ C189 184 164 208 129 208
+ C92 208 63 181 63 145 Z" fill="#2453D4"/>
+<rect x="63" y="77" width="39" height="36" rx="5" fill="#93B4F9"/>
+<rect x="102" y="40" width="39" height="36" rx="5" fill="#B5CBFF"/></g>
+<line x1="377" y1="55" x2="377" y2="232" stroke="#D8E1EE" stroke-width="3"/>
+<text x="431" y="145" font-family="Inter Display,Inter,Arial,sans-serif" font-weight="700" font-size="89" fill="#20242A">Juan Bustamante</text>
+<text x="435" y="215" font-family="Inter,Arial,sans-serif" font-weight="600" font-size="29" letter-spacing="7.4" fill="#626A7A">SENIOR PRODUCT MANAGER</text>
+</svg>
